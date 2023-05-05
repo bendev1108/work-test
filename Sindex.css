@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+*{
+    font-family: 'Kanit', sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(B.jpg);
+    /* background-repeat: no-repeat; */
+  /* background-attachment: fixed; */
+}
+.navbar{
+    background-color: lightgray;
+}
+
+.card-body{
+    background-color: white;
+    margin: 80px 10px 10px 10px;
+    border: 5rem;
+}
+้h3{
+    text-shadow: 2px 2px lightgreen;
+}
